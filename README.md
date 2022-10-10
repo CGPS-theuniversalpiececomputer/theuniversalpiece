@@ -1,7 +1,7 @@
-# universal peace
+# the universal peace
 
-This README contains copy pertaining to universal peace as a concept in context of the tmfp invention project.
+This README contains copy pertaining to the universal piece as a concept in context of the time machine for peace invention project.
 
-Symbol and defining characteristics of a world piece:
+Symbol and defining characteristics of the universal piece:
 
 ![](./media/upsymbol.png)
